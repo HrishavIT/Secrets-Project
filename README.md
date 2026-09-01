@@ -19,18 +19,19 @@ A simple web application built using **Node.js, Express.js, EJS, and Axios** tha
 - HTML/CSS
 - JavaScript
 
-##  Project Structure
-secrets/
-│
+## Project Structure
+
+```text
+FlagGuess/
+├── secrets/
 ├── public/
-│ └── styles/
-│ └── main.css
-│
+│   └── styles/
+│       └── main.css
 ├── views/
-│ └── index.ejs
-│
+│   └── index.ejs
 ├── index.js
 ├── package.json
 ├── package-lock.json
 ├── .gitignore
 └── README.md
+```
